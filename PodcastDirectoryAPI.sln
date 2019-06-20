@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastDirectoryAPI", "PodcastDirectoryAPI\PodcastDirectoryAPI.csproj", "{6FF4DD09-7498-498A-ACE6-BF7DEBB80D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastDirectoryAPI.Domain", "PodcastDirectoryAPI.Domain\PodcastDirectoryAPI.Domain.csproj", "{E28AD477-42EF-4AA4-823B-C859E1E589F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastDirectoryAPI.Data", "PodcastDirectoryAPI.Data\PodcastDirectoryAPI.Data.csproj", "{500564C8-EA98-4DA9-A591-3537CEDC7C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF4DD09-7498-498A-ACE6-BF7DEBB80D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF4DD09-7498-498A-ACE6-BF7DEBB80D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF4DD09-7498-498A-ACE6-BF7DEBB80D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF4DD09-7498-498A-ACE6-BF7DEBB80D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28AD477-42EF-4AA4-823B-C859E1E589F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28AD477-42EF-4AA4-823B-C859E1E589F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28AD477-42EF-4AA4-823B-C859E1E589F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28AD477-42EF-4AA4-823B-C859E1E589F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500564C8-EA98-4DA9-A591-3537CEDC7C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500564C8-EA98-4DA9-A591-3537CEDC7C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500564C8-EA98-4DA9-A591-3537CEDC7C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500564C8-EA98-4DA9-A591-3537CEDC7C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
